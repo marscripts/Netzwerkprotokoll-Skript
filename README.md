@@ -25,4 +25,4 @@ Das Skript gibt anschauliche Erklärungen mit **Emojis** und **Farben**, um Prot
 3️⃣ Datei speichern als `netzwerkprotokolle.ps1`  
 4️⃣ Skript ausführen mit:
    ```powershell
-   .\netzwerkprotokolle.ps1
+   .\ScriptRunnerAdm.bat
